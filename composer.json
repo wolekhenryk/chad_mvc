@@ -1,0 +1,11 @@
+{
+    "name": "root/04-procedural-mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "mongodb/mongodb": "^1.1"
+    }
+}
